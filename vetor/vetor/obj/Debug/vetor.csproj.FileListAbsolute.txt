@@ -1,0 +1,7 @@
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\bin\Debug\vetor.exe.config
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\bin\Debug\vetor.exe
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\bin\Debug\vetor.pdb
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\obj\Debug\vetor.csprojAssemblyReference.cache
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\obj\Debug\vetor.csproj.CoreCompileInputs.cache
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\obj\Debug\vetor.exe
+C:\Users\Isabela Ribeiro\source\repos\vetor\vetor\obj\Debug\vetor.pdb
